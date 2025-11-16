@@ -16,6 +16,6 @@
 [<img align="left" alt="Steph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Steph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/stephon-phillips
+[twitter]: https://x.com/StephonPhi704
 [instagram]: https://www.instagram.com/stephon-phillips
 [linkedin]: https://linkedin.com/in/stephon-phillips
