@@ -12,10 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Steph | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Steph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Steph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Steph | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://x.com/StephonPhi704
-[instagram]: https://www.instagram.com/stephon-phillips
 [linkedin]: https://linkedin.com/in/stephon-phillips
+[twitter]: https://x.com/StephonPhi704
+
